@@ -148,7 +148,7 @@ CLASS zcl_array_combination IMPLEMENTATION.
   ENDMETHOD.
 
   METHOD get_matching_line.
-
+    " to do
   ENDMETHOD.
 
 ENDCLASS.
