@@ -25,7 +25,7 @@ DATA(lo_comb) = NEW zcl_array_combination( ).
 DATA(lt_comb) = lo_comb->get_combinations(
   EXPORTING
     index_tab  = lt_index
-    comb_count = p_comb
+    comb_count = p_comb "number of members of the combination set
 ).
 "3. display alv
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
