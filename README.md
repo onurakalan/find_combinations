@@ -4,7 +4,7 @@ Finding combination and totals of an array with abap
 <p>Example :</p>
 <p>Array : [ (1,10),(2,20),(3,30),(4,40)(5,50)]</p>
 <p>Let's say we want to get the binary combinations of the array, then the result would be.</p>
-<p>It is possible to change the number of elements in the sets as we want.</p>
+<p>And also, it is possible to change the number of elements in the sets as we want.</p>
 
 <p>Result:</p>
 <p>COMBINATION	SUM</p>
