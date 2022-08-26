@@ -1,8 +1,8 @@
 # find_combinations
-Finding combination and totals of an array with abap
+#Finding combination and totals of an array with abap
 
-Example :
-Array : [ (1,10),(2,20),(3,30),(4,40)]
+#Example :
+#Array : [ (1,10),(2,20),(3,30),(4,40)]
 Let's say we want to get the binary combinations of the array, then the result would be.
 It is possible to change the number of elements in the sets as we want.
 
